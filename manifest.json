@@ -1,0 +1,23 @@
+{
+    "item": {
+        "name": "Smart Box",
+        "description": "一个充满“智慧”的工具箱",
+        "preview": ["preview","P1.png","P2.png","P3.png","P4.png","P5.png","P6.png","P7.png","P8.png"],
+        "icon": "icon.png",
+        "source_url": "https://github.com/Emptysets/SmartBox",
+        "author": [{
+            "name": "淘汰郎",
+            "author_url": "https://github.com/Emptysets"
+        }]
+    },
+    "downloads": {
+        "n66": {
+            "version": "1.2.0",
+            "file_name": "smart.box.release.rpk"
+        },
+        "n67": {
+            "version": "1.2.0",
+            "file_name": "9p_smart.box.rpk"
+        }
+    }
+}
