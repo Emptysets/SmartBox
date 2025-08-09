@@ -2,7 +2,7 @@
     "item": {
         "name": "Smart Box",
         "description": "一个充满“智慧”的工具箱",
-        "preview": ["preview","P0.png","P1.png","P2.png","P3.png","P4.png","P5.png","P6.png","P7.png","P8.png"],
+        "preview": ["preview.png","P0.png","P1.png","P2.png","P3.png","P4.png","P5.png","P6.png","P7.png","P8.png","P9.png"],
         "icon": "icon.png",
         "source_url": "https://github.com/Emptysets/SmartBox",
         "author": [{
